@@ -7,3 +7,4 @@ def initialize
   @age = age 
   @all << self
 end 
+end 
